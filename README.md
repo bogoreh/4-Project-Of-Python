@@ -1,2 +1,2 @@
-# 4-Project-Of-Python
-4 basic project for beginner
+#Project-Of-Python
+project for beginner
